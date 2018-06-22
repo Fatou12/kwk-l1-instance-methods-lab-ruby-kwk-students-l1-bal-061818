@@ -2,8 +2,8 @@
 
 ## Objectives
 
-1. Define a class.
-2. Build instance methods for the class.
+1. class dog
+2. def
 
 ## Overview
 
@@ -40,4 +40,3 @@ Add an instance method `#walk` to your `Person` class in `lib/person.rb` that wi
 When you're done, submit the lab with `learn submit`.
 
 <p data-visibility='hidden'>KWK-L1 Instance Methods Lab Ruby</p>
-
